@@ -1,0 +1,44 @@
+h3 {
+    text-align: center;
+}
+
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: moccasin;
+  }
+
+  #my-form {
+    text-align: center;
+    background-color: burlywood;
+    margin: 50px 50px;
+    border: 100px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 50%;
+    box-sizing: border-box; 
+  }
+
+  textarea {
+    width:50%;
+    box-sizing: border-box;
+  }
+
+  #imagecontainer {
+    text-align: center;
+    background-color: burlywood;
+    margin: 50px 50px;
+    border: 100px;
+  }
+  
